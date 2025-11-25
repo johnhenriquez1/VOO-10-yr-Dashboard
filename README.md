@@ -291,6 +291,8 @@ The investment timing signal (0-100) is calculated using:
 - **VIX Data**: CBOE
 - **Economic Data**: Federal Reserve, BLS
 
+- Add VOO Dashboard PWA
+
 ---
 
 **Built with Claude** 🤖 | Dark Theme Investment Dashboard | November 2024
